@@ -1,2 +1,2 @@
 # token-list
-IceCreamSwap BSC Menu
+VaniSwap BSC Menu
