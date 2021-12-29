@@ -1,11 +1,10 @@
 {
-  "name": "IceCreamSwap BSC",
-  "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/logo.png",
+  "name": "VaniSwap BSC",
+  "logoURI": "https://raw.githubusercontent.com/vaniverse/token-list/main/logo.png",
   "keywords": [
-    "IceCreamSwap",
-    "IceCream",
-    "Ice",
-    "Cream",
+    "VaniSwap",
+    "VANI",
+    "vaniverse",
     "sushiswap",
     "sushi",
     "swap"
@@ -24,14 +23,6 @@
       "symbol": "VANI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/0xea6F88a287a821B9917a78D3B5E37C5900c1880d.png"
-    },
-    {
-      "address": "0x096901973AC5b4dd14728fAE04597b90B2a47da9",
-      "chainId": 56,
-      "name": "Gelato",
-      "symbol": "Gelato",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/IceCreamSwap/token-list/main/gelato.png"
     },
     {
       "address": "0x9F4c4AC66a6C4B3b22Da214Ca43B326FAB0826d1",

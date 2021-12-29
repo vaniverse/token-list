@@ -1,11 +1,10 @@
 {
-  "name": "IceCreamSwap BSC",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "name": "VaniSwap Testnet",
+  "logoURI": "https://raw.githubusercontent.com/vaniverse/token-list/main/logo.png",
   "keywords": [
-    "IceCreamSwap",
-    "IceCream",
-    "Ice",
-    "Cream",
+    "VaniSwap",
+    "VANI",
+    "vaniverse",
     "sushiswap",
     "sushi",
     "swap"
